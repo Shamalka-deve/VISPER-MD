@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "VISPER-MD&vsxxnZTB#AFwHKflZIMXIJZuubLQVScXxaILsY7HLo0TAINevvn4",
       "required": true
     }
 },
